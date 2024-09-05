@@ -1,4 +1,6 @@
-## Welcome to GitHub Games
+## Welcome to GitHub Games  
+
+I hope this is fun!
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
